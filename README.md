@@ -1,7 +1,7 @@
 # movies-tmdb-react
 Basically, the TMDB API was used, which contains reviews and descriptions of movies and series with React. Contains a main page where all the films are listed with a button where clicked, it is possible to enter a new page to see the information of the feature.
 
-## Available Scripts
+## Available Script
 
 In the project directory, you can run:
 
